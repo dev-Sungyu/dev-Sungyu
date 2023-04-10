@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <h2>✨Hello, I'm Sungyu!✨</h2>
 
