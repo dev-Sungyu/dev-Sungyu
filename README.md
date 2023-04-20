@@ -9,6 +9,7 @@
 <h2>🎈About Me🎈</h2>
 🎓Graduated : Dongwon University<br>
 💌Email : tjfdhs364@naver.com<br>
+<a href="https://tested-sweatshirt-eb8.notion.site/0348285b36af40fabce2de75fb467f1b"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-the-badge&logo=notion&logoColor=white"/></a>
 
 # 💻Tech Stack
 
